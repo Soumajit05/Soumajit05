@@ -1,3 +1,21 @@
+# 💫 Hi 👋, I'm Soumajit Goswami
+**A passionate AI/ML Engineer || Web3 Engineer || from India**
+
+Email Me 👉 ✉️ **soumajitgoswami4@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Autonomous LLM Agents On Chain Payments Trustless Reputation 
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** soumajitgoswami4@gmail.com
+- 😄 **Pronouns:** Soumajit
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+## 🔗 I am a Student. 😊😊
+
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_souma_jit_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/soumajit-goswami2005) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Soumajit05) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:soumajitgoswami4@gmail.com) 
